@@ -27,7 +27,7 @@ my_account.swap("amAPT", "APT", 0.10252649, 0.099)
 #     my_balance = rest_client.account_balance(my_account.address())
 #     print(my_balance)
 
-#     txn_hash = rest_client.transfer(my_account, "0xeb941767d006512bd091c4b2d0b52d19281eddb55f997babf0b83e2c201c0359", 1_000_000_0) 
+#     txn_hash = rest_client.transfer(my_account, "", 1_000_000_0) 
 #     
 #     print(txn_hash)
 
