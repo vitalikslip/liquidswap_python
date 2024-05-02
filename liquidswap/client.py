@@ -13,7 +13,7 @@ from aptos_sdk.transactions import (
 )
 from aptos_sdk.type_tag import StructTag, TypeTag
 
-from .constants import (
+from .constant import (
     COIN_INFO,
     NETWORKS_MODULES,
     RESOURCES_ACCOUNT,
